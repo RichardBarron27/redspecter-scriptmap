@@ -1,5 +1,18 @@
 # Red Specter ScriptMap
 
+**Red Specter ScriptMap** is a lightweight AppSec utility that maps and classifies **third-party JavaScript dependencies** in a web application.
+
+It automatically extracts script URLs, identifies analytics/ads/CDN/payment/social/monitoring libraries, flags first-party vs third-party, and generates ready-to-use **Markdown reports** for:
+
+- CSP hardening
+- Supply-chain & vendor risk reviews
+- Subresource Integrity (SRI) planning
+- Penetration testing & AppSec reporting
+- Red Specter assessment workflows
+
+> Used during Red Specter appsec engagements to quickly inventory all external JavaScript and highlight potential attack surfaces.
+
+
 Red Specter ScriptMap is a niche utility for **mapping third-party JavaScript dependencies** in a web application.
 
 Give it a text file of **script URLs or `<script>` tags** and your **primary domain**, and it will:
