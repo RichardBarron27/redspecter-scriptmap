@@ -1,4 +1,8 @@
-# Red Specter ScriptMap
+# 🗺 Red Specter ScriptMap
+
+> **ScriptMap** is part of the **Red Specter** tool suite.  
+> Companion tools: Offensive Framework · Email OSINT
+
 
 **Red Specter ScriptMap** is a lightweight AppSec utility that maps and classifies **third-party JavaScript dependencies** in a web application.
 
@@ -48,3 +52,19 @@ Clone the repo:
 ```bash
 git clone https://github.com/<your-user>/redspecter-scriptmap.git
 cd redspecter-scriptmap
+
+---
+
+### 🔗 Explore the Red Specter tool suite
+
+- 🗺 **ScriptMap** – Map, group, and document your security/automation scripts in seconds.  
+  https://github.com/RichardBarron27/redspecter-scriptmap
+
+- 🧨 **Red Specter Offensive Framework** – Modular bash framework for recon, web enum, vuln scanning, and more (Kali-friendly).  
+  https://github.com/RichardBarron27/red-specter-offensive-framework
+
+- 📧 **Red Specter Email OSINT** – Email-focused OSINT helper for investigators and defenders.  
+  https://github.com/RichardBarron27/redspecter-emailosint
+
+Follow the Red Specter project for more ethical cybersecurity tools and playbooks.
+
