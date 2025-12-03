@@ -1,4 +1,9 @@
 # 🗺 Red Specter ScriptMap
+[![Stars](https://img.shields.io/github/stars/RichardBarron27/redspecter-scriptmap?style=flat&logo=github)](https://github.com/RichardBarron27/redspecter-scriptmap/stargazers)
+![Last Commit](https://img.shields.io/github/last-commit/RichardBarron27/redspecter-scriptmap)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Kali%20-purple)
+
 
 > **ScriptMap** is part of the **Red Specter** tool suite.  
 > Companion tools: Offensive Framework · Email OSINT
