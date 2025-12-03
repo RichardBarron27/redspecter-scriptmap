@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RichardBarron27/red-specter-offensive-framework/main/assets/red-specter-logo.png" alt="Red Specter Logo" width="200">
+</p>
+
+<br>
+
 # 🗺 Red Specter ScriptMap
 [![Stars](https://img.shields.io/github/stars/RichardBarron27/redspecter-scriptmap?style=flat&logo=github)](https://github.com/RichardBarron27/redspecter-scriptmap/stargazers)
 ![Last Commit](https://img.shields.io/github/last-commit/RichardBarron27/redspecter-scriptmap)
